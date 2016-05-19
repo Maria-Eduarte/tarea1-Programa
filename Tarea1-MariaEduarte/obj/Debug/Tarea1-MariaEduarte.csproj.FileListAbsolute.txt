@@ -1,0 +1,6 @@
+C:\Users\Priscilla\Desktop\Tarea1-MariaEduarte\Tarea1-MariaEduarte\bin\Debug\Tarea1-MariaEduarte.exe.config
+C:\Users\Priscilla\Desktop\Tarea1-MariaEduarte\Tarea1-MariaEduarte\obj\Debug\Tarea1-MariaEduarte.csprojResolveAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Tarea1-MariaEduarte\Tarea1-MariaEduarte\bin\Debug\Tarea1-MariaEduarte.exe
+C:\Users\Priscilla\Desktop\Tarea1-MariaEduarte\Tarea1-MariaEduarte\bin\Debug\Tarea1-MariaEduarte.pdb
+C:\Users\Priscilla\Desktop\Tarea1-MariaEduarte\Tarea1-MariaEduarte\obj\Debug\Tarea1-MariaEduarte.exe
+C:\Users\Priscilla\Desktop\Tarea1-MariaEduarte\Tarea1-MariaEduarte\obj\Debug\Tarea1-MariaEduarte.pdb
